@@ -13,7 +13,6 @@ import {
  
 export default async function Page() {
 
-  // 현재 request waterfall 상황임
   return (
     <main>
       <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
